@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-dio-clone/static/js/main.943f5ad0.js",
-    "static/media/banner.png": "/react-dio-clone/static/media/banner.9ab4ead1c68ede88f1ce.png",
-    "index.html": "/react-dio-clone/index.html",
-    "main.943f5ad0.js.map": "/react-dio-clone/static/js/main.943f5ad0.js.map"
+    "main.js": "/static/js/main.78da82d4.js",
+    "static/media/banner.png": "/static/media/banner.9ab4ead1c68ede88f1ce.png",
+    "index.html": "/index.html",
+    "main.78da82d4.js.map": "/static/js/main.78da82d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.943f5ad0.js"
+    "static/js/main.78da82d4.js"
   ]
 }
